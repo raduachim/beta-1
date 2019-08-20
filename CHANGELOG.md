@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/raduachim/i-try-lerna/compare/@not-a-real-org/beta-1@2.0.0...@not-a-real-org/beta-1@2.1.0) (2019-08-20)
+
+
+### Features
+
+* random change ([c68e0ee](https://github.com/raduachim/i-try-lerna/commit/c68e0ee))
+
+
+
+
+
 # [2.0.0](https://github.com/raduachim/i-try-lerna/compare/@not-a-real-org/beta-1@1.2.1...@not-a-real-org/beta-1@2.0.0) (2019-08-20)
 
 
