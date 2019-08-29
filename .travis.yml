@@ -4,4 +4,5 @@ services:
 install:
   - npm ci
 script:
+  - docker build -t raduachim/beta-1 .
   - npx semantic-release
