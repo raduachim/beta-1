@@ -19,5 +19,9 @@
   "gitHead": "5fd5aeaff7941b05cda52e3e157deae0fc7a6a52",
   "publishConfig": {
     "access": "public"
+  },
+  "devDependencies": {
+    "@semantic-release/git": "^7.0.16",
+    "semantic-release": "^15.13.24"
   }
 }
